@@ -1,0 +1,251 @@
+body{
+  font-family: 'Baloo 2', cursive;
+  background-image: url(assets/elon.gif);
+  background-size: contain;
+}
+
+audio{
+  display: none;
+}
+
+.wrap{
+  width: 60%;
+  margin-left: 20%;
+  align-content: center;
+}
+
+#backspace{
+  z-index: 20;
+  width: 100%;
+  height: 1000px;
+  font-size: 100px;
+  text-align: center;
+  line-height: 1000px;
+  position: fixed;
+  left: 0;
+  top: 0;
+  background-color: red;
+  display: none;
+  color: white;
+}
+
+.spam{
+  z-index: 10;
+  width: 100%;
+  height: 1000px;
+  font-size: 70px;
+  text-align: center;
+  line-height: 1000px;
+  position: fixed;
+  left: 0;
+  top: 0;
+  display: none;
+  color: white;
+  background-size: contain;
+}
+
+#keys1{
+  background-image: url(assets/elmo.gif);
+  display: none;
+}
+
+#keys2{
+  background-image: url(assets/dancing.gif);
+  display: none;
+}
+
+#keys3{
+  background-image: url(assets/headbanging.gif);
+  display: none;
+  left: 50;
+  top: 60;
+}
+
+#keys4{
+  background-image: url(assets/monkey.gif);
+  display: none;
+  left: 80;
+  top: 90;
+}
+
+#keys5{
+  background-image: url(assets/pattrick.gif);
+  display: none;
+  left: 90;
+  top: 100;
+}
+
+#keys6{
+  background-image: url(assets/staring.gif);
+  display: none;
+  left: 110;
+  top: 120;
+}
+
+#keys7{
+  background-image: url(assets/slap.gif);
+  display: none;
+  left: 10;
+  top: 10;
+}
+
+#keys8{
+  background-image: url(assets/hmm.gif);
+  display: none;
+}
+
+#keys9{
+  background-image: url(assets/friday.gif);
+  display: none;
+  color: red;
+}
+
+#keys10{
+  background-image: url(assets/elmo.gif);
+  display: none;
+}
+
+#keys11{
+  background-image: url(assets/elmo.gif);
+  display: none;
+}
+
+#keys12{
+  background-image: url(assets/elmo.gif);
+  display: none;
+}
+
+#keys13{
+  background-image: url(assets/elmo.gif);
+  display: none;
+}
+
+#keys14{
+  background-image: url(assets/elmo.gif);
+  display: none;
+}
+
+#keys15{
+  background-image: url(assets/elmo.gif);
+  display: none;
+}
+
+#keys16{
+  background-image: url(assets/elmo.gif);
+  display: none;
+}
+
+#keys17{
+  background-image: url(assets/elmo.gif);
+  display: none;
+}
+
+#keys18{
+  background-image: url(assets/elmo.gif);
+  display: none;
+}
+
+#keys19{
+  background-image: url(assets/elmo.gif);
+  display: none;
+}
+
+#keys20{
+  background-image: url(assets/elmo.gif);
+  display: none;
+}
+
+#keys21{
+  background-image: url(assets/elmo.gif);
+  display: none;
+}
+
+#keys22{
+  background-image: url(assets/elmo.gif);
+  display: none;
+}
+
+#keys23{
+  background-image: url(assets/elmo.gif);
+  display: none;
+}
+
+#keys24{
+  background-image: url(assets/elmo.gif);
+  display: none;
+}
+
+.name{
+  text-align: center;
+  text-align: center;
+  display:inline-block;
+  text-decoration: none !important;
+}
+
+.title{
+  margin-top: 200px;
+  text-align: center;
+  font-size: 40px;
+  line-height: 40px;
+  margin-bottom: 50px;
+  font-weight: 800;
+  color: black;
+  display: none;
+}
+
+#title{
+  color: white;
+  display: block;
+}
+
+
+.typebar{
+  width: 100%;
+  font-size: 60px;
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+}
+
+.questions{
+  font-size: 30px;
+}
+
+
+/*Images*/
+.image{
+  width: 100%;
+  height: 400px;
+  background-size: 30%;
+  display: none;
+}
+
+#cat{
+  width: 100%;
+  height: 400px;
+  background-image: url(assets/cat.jpeg);
+  background-size: 30%;
+  display: none;
+}
+
+#movingcat{
+  background-image: url(assets/dancingcat.gif);
+}
+
+
+/*what you wrote so far*/
+.what{
+  margin-top: 40px;
+  font-size: 30px;
+  display: block;
+  font-weight: 600;
+}
+
+#log{
+  font-size: 20px;
+  line-height: 20px;
+
+  width: 100%;
+  margin-bottom: 50px;
+}
+
